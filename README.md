@@ -9,3 +9,7 @@ This mod makes all Bibites taged with "Dummy":
 	-Have infinite Energy
 	-only killable via kill button
 	-drop 0 meat
+	
+How to Install?:
+
+	Just copy "The Bibites_Data" into your installation folder of an already existing copy of The Bibites
